@@ -31,9 +31,10 @@ export default function TabLayout() {
         options={{
           title: 'Home',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="house.fill" color={color} />,
+          tabBarStyle: { display: 'none' }, // Hide the tab bar for this screen
         }}
       />
-      {/* Remove the "explore" route if the file no longer exists */}
+      {/* Add more screens as needed */}
     </Tabs>
   );
 }
