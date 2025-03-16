@@ -1,6 +1,3 @@
-Here’s a GitHub description for your project. This description provides an overview of the project, its features, and how to use it. You can customize it further based on your needs.
-
----
 
 # Eternal Return Spawn Points Map
 
