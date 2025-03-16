@@ -104,6 +104,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this description further to match your project's specifics. You can also add screenshots, badges, or links to additional resources.
