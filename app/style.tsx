@@ -4,6 +4,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     overflow: 'visible', // Allow content to overflow
+    backgroundColor: 'black'
   },
   header: {
     textAlign: 'center',
