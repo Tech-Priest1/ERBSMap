@@ -53,7 +53,7 @@ This project is a **React Native application** designed to help players of the g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tech-Priest1/eERBSMap.git
+   git clone https://github.com/Tech-Priest1/ERBSMap.git
    ```
 
 2. Navigate to the project directory:
