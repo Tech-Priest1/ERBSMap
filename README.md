@@ -58,7 +58,7 @@ This project is a **React Native application** designed to help players of the g
 
 2. Navigate to the project directory:
    ```bash
-   cd eERBSMap
+   cd ERBSMap
    ```
 
 3. Install dependencies:
