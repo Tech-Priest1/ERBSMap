@@ -8,7 +8,7 @@ const MapScreen = () => {
   const [zoom, setZoom] = useState(1);
   const pan = useRef(new Animated.ValueXY({ x: 0, y: 0 })).current;
   const [showSpawnLocations, setShowSpawnLocations] = useState(true);
-  const [showTimers, setShowTimers] = useState(true);
+  const [showTimers, setShowTimers] = useState(false);
   const [elapsedTime, setElapsedTime] = useState(0); // Track elapsed time since game start
   const [touchedMonsterId, setTouchedMonsterId] = useState<string | null>(null); // Track touched monster
   const [isLegendVisible, setIsLegendVisible] = useState(false); // Track legend visibility
@@ -83,7 +83,7 @@ const MapScreen = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.header}>Eternal Return SpawnPoints</Text>
-      <Text style={styles.header}>Ver: 1.42</Text>
+      <Text style={styles.header}>Patch: 1.42</Text>
 
       {/* Legend Dropdown Button */}
       <TouchableOpacity onPress={toggleLegend} style={styles.legendDropdownButton}>

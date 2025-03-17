@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     borderRadius: 8, // Rounded corners
     alignItems: 'center',
     justifyContent: 'center',
-    width: 160, // Wider button to fit text
+    width: 180, // Wider button to fit text
   },
   toggleTimerButton: {
     position: 'absolute',
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
     borderRadius: 8, // Rounded corners
     alignItems: 'center',
     justifyContent: 'center',
-    width: 100, // Wider button to fit text
+    width: 180, // Wider button to fit text
 
   },
   mapWrapper: {
