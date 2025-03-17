@@ -53,12 +53,12 @@ This project is a **React Native application** designed to help players of the g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/eternal-return-spawn-map.git
+   git clone https://github.com/your-username/eERBSMap.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd eternal-return-spawn-map
+   cd eERBSMap
    ```
 
 3. Install dependencies:
@@ -68,7 +68,7 @@ This project is a **React Native application** designed to help players of the g
 
 4. Run the project:
    ```bash
-   npm start
+   npx expo start --web  
    ```
 
 5. Open the app on your device or emulator.
