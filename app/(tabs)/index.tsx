@@ -83,7 +83,7 @@ const MapScreen = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.header}>Eternal Return SpawnPoints</Text>
-      <Text style={styles.header}>Patch: 1.42</Text>
+      <Text style={styles.header}>Patch: 10.4</Text>
 
       {/* Legend Dropdown Button */}
       <TouchableOpacity onPress={toggleLegend} style={styles.legendDropdownButton}>
