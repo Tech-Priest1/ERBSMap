@@ -19,7 +19,7 @@ export const MonsterTypes = {
     MutantChicken: {
         icon: require('../assets/images/animals/1.1.png'),
         timerId: 'timer0',
-        initialTimer: 20,
+        initialTimer: 140,
     },
     Bat: {
         icon: require('../assets/images/animals/2.png'),
