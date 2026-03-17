@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-// Day/Night cycle durations
+// Day/Night cycle durations based on patch v10.4.0-17d643
 const dayNightCycles = [
   { isDay: true, duration: 150 }, // Day 1
   { isDay: false, duration: 110 }, // Night 1
