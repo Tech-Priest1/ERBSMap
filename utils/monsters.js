@@ -1,3 +1,5 @@
+//patch v10.4.0-17d643 timers for monsters
+
 //timer1 all chickens         initialTimer 0
 //timer2 all bears            initialTimer 140
 //timer3 all bats             initialTimer 30
